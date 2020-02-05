@@ -1,0 +1,38 @@
+
+pip install django
+
+https://www.djangoproject.com/
+To create a django project:
+-- execute the project in termianl: django-admin startproject pyshop .
+    [startproject says start a project and .(period) says create a project in the current directory]
+-- this brings utility in the new project
+-- wsgi : webserver gateway interface
+-- manage.py: to manage
+
+-- in terminal type: python manage.py runserver
+        --> Starting development server at http://127.0.0.1:8000/
+ -- Control+C to break the server
+
+-- open another terminal window by clicking + button
+-- start typing in terminal: python manage.py startapp products #this creates new folder with other references as module.
+
+For DB: use sqllight for small projects/ to create all the objects in sql light server
+        ex: from model to entity creation in db server automatically
+1. https://sqlitebrowser.org/
+    install it here
+2. in pychorm terminal #before this step, add products name in settings.py under INSTALLED_APPS section.
+    python manage.py makemigrations
+        Migrations for 'products':
+        products\migrations\0001_initial.py
+            - Create model Product
+3. in pychorm terminal # this migrate if any pending model created and not created db objects.
+    python manage.py migrate
+
+
+4. django has it own admin/login funtionality we just have to create a user as below,
+    python manage.py createsuperuser
+
+For bootstrap:
+http://www.getbootstrap.com/docs/4.1/components/card
+
+
