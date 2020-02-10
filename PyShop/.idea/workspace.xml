@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f585d5b-2a05-42ef-ae35-3eeeff32f7b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyshop/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XLN7BZm31UFlay0am7AZZhDLYQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_Exercise" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sundarsi\source\repos\PythonExercise1\PyShop\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lang_Trans_gtts">
+    <configuration name="Lang_Trans_gtts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lang_Trans_gtts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/products" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/products/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lang_Trans_gtts" />
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f585d5b-2a05-42ef-ae35-3eeeff32f7b8" name="Default Changelist" comment="" />
+      <created>1580821244173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580821244173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Servers" timestamp="1580911696382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Servers/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580911696382" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580823182659">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580823182659" />
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1581319017424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1581319017424" />
+    <state width="629" height="163" key="GridCell.Tab.0.bottom" timestamp="1581318857976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1581318857976" />
+    <state width="629" height="163" key="GridCell.Tab.0.center" timestamp="1581318857975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1581318857975" />
+    <state width="629" height="163" key="GridCell.Tab.0.left" timestamp="1581318857975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1581318857975" />
+    <state width="629" height="163" key="GridCell.Tab.0.right" timestamp="1581318857976">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="629" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1581318857976" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580954772365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580911220237" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580954772365" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580954762327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1580911192984" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580954762327" />
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1580882828108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1580882828108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/products/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
