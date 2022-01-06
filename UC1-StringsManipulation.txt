@@ -1,0 +1,6 @@
+1. Python program to Split a string and join the string using delimiter.
+ Example: 
+		Input: Two different input 1.Type of string like "Age Is Just A Number" 2. TypeOfSingleChar(delimiter) like anyone @,~,-,# etc 
+		Output: 'Age@Is@Just@A@Number' if the delimiter is @
+		
+		
